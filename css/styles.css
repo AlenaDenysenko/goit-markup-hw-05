@@ -506,7 +506,11 @@ img {
   background-color: #31d0aa;
 }
 
+.form-footer-div {
+  margin-left: 80px;
+}
 .subscribe {
+  margin-left: 18px;
   margin-bottom: 16px;
   font-weight: 500;
   font-size: 16px;
@@ -556,4 +560,9 @@ img {
 
 .form-footer-label {
   margin-left: 16px;
+}
+
+.icon-form-footer {
+  margin-left: 16px;
+  fill: #ffffff;
 }
