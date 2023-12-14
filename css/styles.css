@@ -726,6 +726,7 @@ img {
 
 .button-send {
   display: block;
+  margin: auto;
   min-width: 169px;
   height: 56px;
   font-family: 'Roboto', sans-serif;
