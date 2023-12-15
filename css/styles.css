@@ -722,7 +722,7 @@ img {
   justify-content: center;
   fill: transparent;
 }
-#user-privacy:checked + .checkbox-text .icon-click {
+input:checked + label > span {
   background-color: #404bbf;
   border: none;
   fill: #f4f4fd;
