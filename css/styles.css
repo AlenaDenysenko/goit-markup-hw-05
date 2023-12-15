@@ -667,7 +667,11 @@ img {
 }
 
 .input-modal:hover,
-.input-modal:focus,
+.input-modal:focus {
+  border-color: #4d5ae5;
+  fill: #4d5ae5;
+}
+
 .modal-icon:hover,
 .modal-icon:focus {
   border-color: #4d5ae5;
