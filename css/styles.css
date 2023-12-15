@@ -678,22 +678,6 @@ img {
   fill: #4d5ae5;
 }
 
-/*
-  .modal-comment:hover,
-.modal-comment:focus {
-  border-color: #4d5ae5;}
-  
-
-  .input-modal:focus {
-    border-color: #4d5ae5;
-  }
-  .input-modal:focus + svg {
-    fill: #4d5ae5;
-  }
-  .modal-comment:focus {
-    border-color: #4d5ae5;
-  } */
-
 .div-comment {
   margin-bottom: 16px;
 }
